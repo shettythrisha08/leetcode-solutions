@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/shettythrisha08/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/shettythrisha08/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shettythrisha08/leetcode-solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/shettythrisha08/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shettythrisha08/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [1672-richest-customer-wealth](https://github.com/shettythrisha08/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/shettythrisha08/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shettythrisha08/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/shettythrisha08/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shettythrisha08/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
