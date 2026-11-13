@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/shettythrisha08/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/shettythrisha08/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shettythrisha08/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
+| [0136-single-number](https://github.com/shettythrisha08/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/shettythrisha08/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shettythrisha08/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shettythrisha08/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/shettythrisha08/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/shettythrisha08/leetcode-solutions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
