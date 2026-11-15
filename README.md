@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shettythrisha08/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shettythrisha08/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shettythrisha08/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/shettythrisha08/leetcode-solutions/tree/master/0704-binary-search) |
 | [1672-richest-customer-wealth](https://github.com/shettythrisha08/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/shettythrisha08/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/shettythrisha08/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shettythrisha08/leetcode-solutions/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/shettythrisha08/leetcode-solutions/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
