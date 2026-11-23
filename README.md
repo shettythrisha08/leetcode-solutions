@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/shettythrisha08/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/shettythrisha08/leetcode-solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/shettythrisha08/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shettythrisha08/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Binary Search
 |  |
 | ------- |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shettythrisha08/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shettythrisha08/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
