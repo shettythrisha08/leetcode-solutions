@@ -5,6 +5,10 @@
 #         self.next = next
 class Solution:
     def mergeTwoLists(self, list1: ListNode | None, list2: ListNode | None) -> ListNode | None:
+        if not list1:
+            return list2
+        if not list2:
+            return list1
         dummy=ListNode()
         current=dummy
         while list1 is not None and list2 is not None:
